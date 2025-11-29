@@ -5,4 +5,4 @@ I will upload the completed projects in this repository once I am completed with
 I like to improvise a little, so my codes would look more different compared to Angela's solution codes. Obviously, my code version is gonna be more "amateurish" than Angela's 
 since she's a pro and I am still a begineer, but I will give it a try. :) 
 
-Some of the earlier days would be unavailable because they might be projects that was done on Replit and some days in the course might be days without any projects. For example, Day 13 was all about debugging. So, there would be no any independent projects I built on Day 13.  
+Some of the days would be unavailable because they might be projects that was done on Replit and some days in the course might be days without any projects. For example, Day 13 was all about debugging. So, there would be no any independent projects I built on Day 13.  

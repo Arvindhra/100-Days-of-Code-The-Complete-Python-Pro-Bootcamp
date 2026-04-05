@@ -5,4 +5,6 @@ This folder would contain these files:
 #### b) blank_states_img.gif which would contain the image of the blank United States of America map. 
 #### c) main.py which would contain the main codes which would be used to run the game. 
 
+The main.py file would provide you another output file as well, "missing_states.csv" which would contain the dataset of all the states that you have missed out in the game, which you can use as a benchmark for the next round of the game. 
+
 This project is part of Day 25 of 100 Days of Code - The Complete Python Pro Bootcamp Course by Angela Yu on Udemy.

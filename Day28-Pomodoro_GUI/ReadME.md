@@ -1,4 +1,4 @@
-This project is to create the Pomodoro GUI using tkinter module in Python.
+This project is to create the Pomodoro GUI applucation using tkinter module in Python.
 
 This folder would contain these files:
 #### a) main.py which would contain all the codes required to run the Pomodoro application. 
